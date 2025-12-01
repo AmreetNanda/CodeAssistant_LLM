@@ -93,13 +93,14 @@ docker run -p 8501:8501 coderspace-chatbot
 docker run --gpus all -p 8501:8501 coderspace-chatbot
 
 ```
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-## Screenshots
 
 ##### Home page
 ![App Screenshot](https://github.com/AmreetNanda/CodeAssistant_LLM/blob/main/CodeChatbot%20screenshot.png)
 
 
 ## Demo
+https://github.com/user-attachments/assets/a006cdc9-e55b-4435-82b0-5d24d5d6c2d4
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+## Screenshots
