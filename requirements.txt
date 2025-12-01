@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain-core
+langchain-classic
+gradio
+ipykernel
+streamlit
